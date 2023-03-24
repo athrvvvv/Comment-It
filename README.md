@@ -17,7 +17,7 @@ Collection of comments in various Programming Languages, with dad jokes.
 2. Clone your fork locally 🙋‍♂
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/AppOpener.git
+git clone https://github.com/athrvvvv/Comment-It.git
 ```
 Replace "YOUR_USERNAME" with your GitHub username
 
